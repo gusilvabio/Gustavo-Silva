@@ -1,5 +1,5 @@
 ### Sobre mim
-Estoume desenvolvendo na carreira Salesforce, com foco em se tornar um  
+Estou me desenvolvendo na carreira Salesforce, com foco em se tornar um  
 profissional completo na plataforma. Possuo experiência prévias em análise de requisitos,  
 comunicação assertiva e resolução de conflitos. Tenho conhecimento nas nuvens Sales, Service e  
 Experience Cloud, além de domínio em regras de validação, permissionamento, controle de  
